@@ -1,7 +1,7 @@
 # Hello, I'm Vamshi 👋
 
 <!-- Replace with your own image or avatar -->
-![Profile Banner]([https://user-images.githubusercontent.com/your-avatar.png](https://avatars.githubusercontent.com/u/24977285?v=4))
+![Profile Banner]([https://avatars.githubusercontent.com/u/24977285?v=4](https://avatars.githubusercontent.com/u/24977285?v=4))
 
 ## About Me
 
